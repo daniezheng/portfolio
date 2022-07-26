@@ -48,8 +48,8 @@ a {
   .link__hover-effect--white:after {
     background-color: #fff;
   }
-  .link__hover-effect--black:after {
-    background-color: #000;
+  .link__hover-effect--purple:after {
+    background-color: #6030B1;
   }
   
   .link__hover-effect:hover:after {
@@ -406,8 +406,8 @@ nav {
  }
 
  .footer__logo--img {
-    width: 70px;
-    height: 70px;
+    width: 94px;
+    height: 60px;
  }
 
  .footer__social--link, 

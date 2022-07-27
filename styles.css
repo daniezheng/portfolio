@@ -467,6 +467,10 @@ nav {
  /* SMALL PHONES */
 
  @media (max-width: 480px) {
+    .nav {
+      height: 100px;
+    }
+  
     .nav__link:not(:lastchild) {
         display: none;
     }

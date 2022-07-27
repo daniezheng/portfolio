@@ -468,7 +468,7 @@ nav {
  
  /* SMALL PHONES */
 
- @media (max-width: 480px) {
+ @media (max-width: 400px) {
     .nav {
       height: 68px;
       margin: 20px auto;

@@ -468,14 +468,14 @@ nav {
  
  /* SMALL PHONES */
 
- @media (max-width: 400px) {
+ @media (max-width: 480px) {
     .nav {
       height: 68px;
       margin: 20px auto;
 
     }
   
-    .nav__link:not(:lastchild) {
+    .nav__link:not(:last-child) {
         display: none;
     }
 
